@@ -1,0 +1,8 @@
+name: workshop-pag
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - dicttoxml
